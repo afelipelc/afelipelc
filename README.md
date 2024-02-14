@@ -9,21 +9,23 @@ Aplicación móvil para gestión de unidades de taxis.
 
 <details>
   <summary>**Ver más sobre este proyecto**</summary>
+  
+  Aplicación a la medida para cliente de la región.
+  
+  **Funcionalidades generales**
+  * Gestión de unidades
+  * Bitácora de viajes por unidad
+  * Gestión de tarifas por origen y destino
+  * Inicio y seguimiento de viaje
+  * Resumen de viajes e ingresos por jornada
+  
+  **Tecnologías**
+  * Flutter
+  * Firebase
 
-    **Funcionalidades generales**
-    * Gestión de unidades
-    * Bitácora de viajes por unidad
-    * Gestión de tarifas por origen y destino
-    * Inicio y seguimiento de viaje
-    * Resumen de viajes e ingresos por jornada
+  ![Resumen general para el admin](/imgs/p2_im2.png)
 
-    **Tecnologías**
-    * Flutter
-    * Firebase
-
-    ![Resumen general para el admin](/imgs/p2_im2.png)
-
-    ![Bitácora del conductor](/imgs/p2_im2.png)
+  ![Bitácora del conductor](/imgs/p2_im2.png)
 </details>
 
 
