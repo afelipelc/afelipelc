@@ -7,16 +7,15 @@ Desarrollador Freelance
 * Sistemas Web
 * App móvil
 
-## Proyectos desarrollados para mis clientes
-
-### Sitio/App Web para inscripciones al congreso del mezcal - Puebla 2024
-Sitio/App web para la recepción de inscripciones al congreso del mezcal. Con proceso de inscripción y validación de inscripciones por el comité organizador.
-[Congreso del Mezcal - UTIM](https://congresomezcal.utim.edu.mx/)
+## Proyectos desarrollados
 
 <details>
-  <summary>Ver más sobre este proyecto</summary>
-  
-  Sistema web a la medida desarrollado para el 1er congreso del Mezcal Puebla 2024, en la Universidad Tecnológica de Izúcar de Matamoros.
+<summary><b>Sitio/App Web para inscripciones al congreso del mezcal - Puebla 2024</b></summary>  
+  Sitio/App web para la recepción de inscripciones para el 1er congreso del Mezcal Puebla 2024. Con proceso de inscripción y validación de inscripciones por el comité organizador.
+  [Congreso del Mezcal - UTIM](https://congresomezcal.utim.edu.mx)
+
+  <details>
+  <summary><b>Funcionalidades</b></summary>
   
   **Funcionalidades generales**
   * Landing page del congreso del mezcal
@@ -32,9 +31,10 @@ Sitio/App web para la recepción de inscripciones al congreso del mezcal. Con pr
   * NextJS 14
   * NextUI
   * Supabase
+  </details>
 
-
-  **Screenshots**
+  <details>
+  <summary><b>Screenshots</b></summary>
   Landing page dark
   <img src="/imgs/eventos/event1.png" alt="Landing page dark" width="300" height="auto">
   
@@ -56,62 +56,45 @@ Sitio/App web para la recepción de inscripciones al congreso del mezcal. Con pr
 
   Módulo de admisión de pagos de inscripción
   <img src="/imgs/eventos/event5.png" alt="Módulo de admisión de pagos de inscripción" width="300" height="auto">
-
+  </details>
 </details>
 
-### Gestión Viajes de Taxis - Mobile (Flutter) 📱
-Aplicación móvil para gestión de unidades de taxis.
-
 <details>
-  <summary>Ver más sobre este proyecto</summary>
-  
-  Aplicación a la medida para cliente de la región.
-  
+<summary><b>Gestión Viajes de Taxis - Mobile (Flutter) 📱</b></summary>
+  Aplicación móvil para gestión de unidades de taxis para cliente local.
+    
   **Funcionalidades generales**
   * Gestión de unidades
   * Bitácora de viajes por unidad
   * Gestión de tarifas por origen y destino
   * Inicio y seguimiento de viaje
   * Resumen de viajes e ingresos por jornada
-  
+    
   **Tecnologías**
   * Flutter
   * Firebase
-
+  
   ![Resumen general para el admin](/imgs/p2_im2.png)
 
   ![Bitácora del conductor](/imgs/p2_im1.png)
 </details>
 
-
-
-### Gestión de prestación de Servicios tecnológicos - Web 
-Aplicación web a la medida para la gestión de prestación de servicios de internet. Funcionalidades requeridas por el cliente.
-
 <details>
-  <summary>Ver más sobre este proyecto</summary>
+<summary><b>Gestión de prestación de Servicios tecnológicos - Web</b></summary>
+  Aplicación web a la medida para la gestión de prestación de servicios de internet. Funcionalidades requeridas por el cliente.
   
-  App a la medida para empresa de la región.
-
   **Tecnologías**
   * NextJS v12
   * Material UI
   * Sequelize (ORM)
 
   ![Aplicación web a la medida](/imgs/p1_w1.png)
-
-
-
 </details>
 
-### Gestión de prestación de Servicios tecnológicos - Escritorio 
-Sistema de escritorio a la medida (ERP) para la gestión de prestación de servicios de internet. Funcionalidades requeridas por el cliente.
-
 <details>
-  <summary>Ver más sobre este proyecto</summary>
+<summary><b>Gestión de prestación de Servicios tecnológicos - Escritorio</b></summary>
+  Sistema de escritorio a la medida (ERP) para la gestión de prestación de servicios de internet. Funcionalidades requeridas por el cliente.
   
-  App a la medida para empresa de la región.
-
   **Tecnologías**
   * Net Core - C# - WPF
   * Material UI
@@ -122,14 +105,10 @@ Sistema de escritorio a la medida (ERP) para la gestión de prestación de servi
 
 </details>
 
-### Gestión de venta de fichas - Escritorio 
-Sistema de escritorio a la medida para la gestión de venta de fichas.
-
 <details>
-  <summary>Ver más sobre este proyecto</summary>
+<summary><b>Gestión de venta de fichas - Escritorio</b></summary>
+  Sistema de escritorio a la medida para la gestión de venta de fichas para cliente de la región.
   
-  App a la medida para empresa de la región.
-
   **Tecnologías**
   * Net Core - C# - WPF
   * SQL Server
@@ -139,15 +118,11 @@ Sistema de escritorio a la medida para la gestión de venta de fichas.
 
 </details>
 
-### Sistema de comandas y POS para Pizzería 
-Sistema de escritorio a el levantamiento de órdenes y cobranza para Pizzería.
-Desarrollado a la medida para [Emporios Pizza](https://www.facebook.com/emporiospizza) - Izúcar de Matamoros, Pue. 
-
 <details>
-  <summary>Ver más sobre este proyecto</summary>
+<summary><b>Sistema de comandas y POS para Pizzería </b></summary>
+  Sistema de escritorio a el levantamiento de órdenes y cobranza a la medida para Pizzería.
+  Desarrollado a la medida para [Emporios Pizza](https://www.facebook.com/emporiospizza) - Izúcar de Matamoros, Pue. 
   
-  App a la medida para Pizzería.
-
   **Funcoinalidades**
   * Levantamiento de órdenes por comandos
   * Cobranza de orden por mesa
