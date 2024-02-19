@@ -1,8 +1,63 @@
 # Felipe MX
 
-Profesor en [UTIM](https://www.utim.edu.mx/) y Desarrollador Freelance
+Desarrollador Freelance
+* Implementación de soluciones con base en requerimientos
+* Automaticación de procesos mediante sistemas de software
+* Sistemas de escritorio (Windows)
+* Sistemas Web
+* App móvil
 
-## Proyectos creados
+## Proyectos desarrollados para mis clientes
+
+### Sitio/App Web para inscripciones al congreso del mezcal - Puebla 2024
+Sitio/App web para la recepción de inscripciones al congreso del mezcal. Con proceso de inscripción y validación de inscripciones por el comité organizador.
+[Congreso del Mezcal - UTIM](https://congresomezcal.utim.edu.mx/)
+
+<details>
+  <summary>Ver más sobre este proyecto</summary>
+  
+  Sistema web a la medida desarrollado para el 1er congreso del Mezcal Puebla 2024, en la Universidad Tecnológica de Izúcar de Matamoros.
+  
+  **Funcionalidades generales**
+  * Landing page del congreso del mezcal
+  * Proceso de inscripción con diferentes opciones: asistente / expositor
+  * Diseño responsivo
+  * Tema claro y oscuro
+  * Panel administrativo para validación de inscripciones
+  * Envío de correos en cada paso del proceso
+  * Admisión o rechazo de inscripción
+  * Adjuntar archivos de pago y/o factura
+  
+  **Tecnologías**
+  * NextJS 14
+  * NextUI
+  * Supabase
+
+
+  **Screenshots**
+  Landing page dark
+  <img src="/imgs/eventos/event1.png" alt="Landing page dark" width="300" height="auto">
+  
+  Landing page light
+  <img src="/imgs/eventos/event2.png" alt="Landing page light" width="300" height="auto">
+ 
+  Lighthouse del sitio
+  <img src="/imgs/eventos/event3.png" alt="Lighthouse del sitio" width="300" height="auto">
+  
+  Proceso de inscripción
+  <img src="/imgs/eventos/event3_2.png" alt="Proceso de inscripción" width="300" height="auto">
+  
+
+  Opciones de inscripción
+  <img src="/imgs/eventos/event4.png" alt="Opciones de inscripción" width="300" height="auto">
+  
+  Dashboar de administración
+  <img src="/imgs/eventos/event5.png" alt="Dashboar de administración" width="300" height="auto">
+
+  Módulo de admisión de pagos de inscripción
+  <img src="/imgs/eventos/event5.png" alt="Módulo de admisión de pagos de inscripción" width="300" height="auto">
+
+</details>
 
 ### Gestión Viajes de Taxis - Mobile (Flutter) 📱
 Aplicación móvil para gestión de unidades de taxis.
@@ -30,8 +85,8 @@ Aplicación móvil para gestión de unidades de taxis.
 
 
 
-### Gestión de Servicios tecnológicos - Web 
-Aplicación web a la medida (ERP) para la gestión de contratos de servicios tecnológicos, cobranza, gestor de actividades, comisionistas, entre otras funcionalidades.
+### Gestión de prestación de Servicios tecnológicos - Web 
+Aplicación web a la medida para la gestión de prestación de servicios de internet. Funcionalidades requeridas por el cliente.
 
 <details>
   <summary>Ver más sobre este proyecto</summary>
@@ -45,11 +100,72 @@ Aplicación web a la medida (ERP) para la gestión de contratos de servicios tec
 
   ![Aplicación web a la medida](/imgs/p1_w1.png)
 
+
+
 </details>
 
+### Gestión de prestación de Servicios tecnológicos - Escritorio 
+Sistema de escritorio a la medida (ERP) para la gestión de prestación de servicios de internet. Funcionalidades requeridas por el cliente.
+
+<details>
+  <summary>Ver más sobre este proyecto</summary>
+  
+  App a la medida para empresa de la región.
+
+  **Tecnologías**
+  * Net Core - C# - WPF
+  * Material UI
+  * SQL Server
+  * Entity Framework Core
+
+  ![Sistema de escritorio a la medida](/imgs/s_serv1.png)
+
+</details>
+
+### Gestión de venta de fichas - Escritorio 
+Sistema de escritorio a la medida para la gestión de venta de fichas.
+
+<details>
+  <summary>Ver más sobre este proyecto</summary>
+  
+  App a la medida para empresa de la región.
+
+  **Tecnologías**
+  * Net Core - C# - WPF
+  * SQL Server
+  * Entity Framework Core
+
+  ![Sistema de escritorio a la medida](/imgs/s_chip1.png)
+
+</details>
+
+### Sistema de comandas y POS para Pizzería 
+Sistema de escritorio a el levantamiento de órdenes y cobranza para Pizzería.
+Desarrollado a la medida para [Emporios Pizza](https://www.facebook.com/emporiospizza) - Izúcar de Matamoros, Pue. 
+
+<details>
+  <summary>Ver más sobre este proyecto</summary>
+  
+  App a la medida para Pizzería.
+
+  **Funcoinalidades**
+  * Levantamiento de órdenes por comandos
+  * Cobranza de orden por mesa
+  * Corte de caja
+  * Reportes de ingresos
+  * Impresión de tickets por categoría: cocina, bar, recepción
+
+  **Tecnologías**
+  * Net Core - C# - WPF
+  * SQL Server
+  * Entity Framework
+
+</details>
 
 
 **... doc en desarrollo**
 
 👨🏽‍💻 Contacto: vía gmail: ```afelipelc```
+
+[Canal de Youtube 📺](https://www.youtube.com/afelipelc)
 
