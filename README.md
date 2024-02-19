@@ -1,11 +1,10 @@
 # Felipe MX
 
-Desarrollador Freelance
-* Implementación de soluciones con base en requerimientos
-* Automaticación de procesos mediante sistemas de software
-* Sistemas de escritorio (Windows)
-* Sistemas Web
-* App móvil
+Desarrollador Freelance <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* Implementación de soluciones con base en requerimientos ☑
+* Sistemas de escritorio (Windows) 🖥️
+* Sistemas Web 💻
+* App móvil 📲
 
 <details>
 <summary><span style="color:blue"><b>Proyectos desarrollados y puestos en producción</b></span></summary>
