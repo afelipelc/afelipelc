@@ -7,9 +7,13 @@ Desarrollador Freelance
 * Sistemas Web
 * App móvil
 
-## Proyectos desarrollados
+<details>
+<summary><span style="color:blue"><b>Proyectos desarrollados y puestos en producción</b></span></summary>
+
 
 <details>
+
+
 <summary><b>Sitio/App Web para inscripciones al congreso del mezcal - Puebla 2024</b></summary>  
   Sitio/App web para la recepción de inscripciones para el 1er congreso del Mezcal Puebla 2024. Con proceso de inscripción y validación de inscripciones por el comité organizador.
   [Congreso del Mezcal - UTIM](https://congresomezcal.utim.edu.mx)
@@ -58,8 +62,9 @@ Desarrollador Freelance
   <img src="/imgs/eventos/event5.png" alt="Módulo de admisión de pagos de inscripción" width="300" height="auto">
   </details>
 </details>
-
 <details>
+
+  
 <summary><b>Gestión Viajes de Taxis - Mobile (Flutter) 📱</b></summary>
   Aplicación móvil para gestión de unidades de taxis para cliente local.
     
@@ -79,6 +84,7 @@ Desarrollador Freelance
   ![Bitácora del conductor](/imgs/p2_im1.png)
 </details>
 
+
 <details>
 <summary><b>Gestión de prestación de Servicios tecnológicos - Web</b></summary>
   Aplicación web a la medida para la gestión de prestación de servicios de internet. Funcionalidades requeridas por el cliente.
@@ -90,6 +96,7 @@ Desarrollador Freelance
 
   ![Aplicación web a la medida](/imgs/p1_w1.png)
 </details>
+
 
 <details>
 <summary><b>Gestión de prestación de Servicios tecnológicos - Escritorio</b></summary>
@@ -105,6 +112,7 @@ Desarrollador Freelance
 
 </details>
 
+
 <details>
 <summary><b>Gestión de venta de fichas - Escritorio</b></summary>
   Sistema de escritorio a la medida para la gestión de venta de fichas para cliente de la región.
@@ -117,6 +125,7 @@ Desarrollador Freelance
   ![Sistema de escritorio a la medida](/imgs/s_chip1.png)
 
 </details>
+
 
 <details>
 <summary><b>Sistema de comandas y POS para Pizzería </b></summary>
@@ -135,6 +144,7 @@ Desarrollador Freelance
   * SQL Server
   * Entity Framework
 
+</details>
 </details>
 
 
